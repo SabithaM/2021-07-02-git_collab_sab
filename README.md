@@ -4,3 +4,4 @@
 - `git branch <NAME>`: creates a branch called <NAME> where you are (HEAD)
 - `git switch <NAME>`: move the branch <NAME>
   - `git checkout <NAME>`: older way of moving to a branch
+- `git stash`: will create a temp commit
